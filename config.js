@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
   'https://zenzapis.xyz': global.keysxxx, 
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
-
+global.session_ID = 'Xlicon_3286a250-f24e-4a62-a9bc-12b2c3d2ba09'
 // Sticker WM
 global.botname = 'XLICON-V2'
 global.premium = 'true'
