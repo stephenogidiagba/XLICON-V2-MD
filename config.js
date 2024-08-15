@@ -5,6 +5,7 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
 
+global.session_id = 'Xlicon_3286a250-f24e-4a62-a9bc-12b2c3d2ba09']
 global.owner = [
   ['918360234087', 'WHITE', true], 
   ['233208179431', 'Abraham Dwamena', true],
@@ -12,7 +13,8 @@ global.owner = [
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
   ['233533763772', 'Abraham Dwamena2', true],
   ['233508488192', 'Abraham Dwamena3', true]
-] //Number of owners
+['2349118005963','TECH HIVE', true ]
+] //OWNER OF NUMBERS 
 
 global.mods = ['923184070915', '94789481495', '923184474176', '233531910067', '233508488192'] 
 global.prems = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192']
